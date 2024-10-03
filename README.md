@@ -3,9 +3,9 @@ This guide will help you set up and run the project locally.
 🛠 Prerequisites
 Make sure you have the following installed:
 
--Python
--PostgreSQL
--pgAdmin
+Python,
+PostgreSQL,
+pgAdmin,
 
 ⚙️ Steps to Run the Project
 1. Create a Virtual Environment
@@ -50,5 +50,5 @@ You can now view the project by visiting http://127.0.0.1:8000 in your web brows
 
 📸 Screenshots
 Include some screenshots or project visuals here:
-<img src="https://github.com/username/repo-name/blob/main/assets/screenshot.png" width="400" />![image](https://github.com/user-attachments/assets/f775ed27-334d-4655-826c-85cafe12cf1f)
+![image](https://github.com/user-attachments/assets/f775ed27-334d-4655-826c-85cafe12cf1f)
 
